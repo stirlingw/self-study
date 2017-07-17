@@ -18,3 +18,5 @@
   
 # References
 1. [http://joyceho.github.io/cs584_s16/slides/tf-20.pdf](http://joyceho.github.io/cs584_s16/slides/tf-20.pdf). Tensor Factorization. Ho Joyce.
+2. [http://www.cs.columbia.edu/~djhsu/papers/power-jmlr.pdf](http://www.cs.columbia.edu/~djhsu/papers/power-jmlr.pdf). Tensor Decompositions for Learning Latent Variable Models.
+3. [http://repository.cmu.edu/cgi/viewcontent.cgi?article=1364&context=isr](http://repository.cmu.edu/cgi/viewcontent.cgi?article=1364&context=isr). Temporal Collaborative Filtering with Bayesian Probabilistic Tensor Factorization
